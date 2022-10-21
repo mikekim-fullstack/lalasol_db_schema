@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T14:34:55.408Z" agent="5.0 (Macintosh)" etag="HjwnVZctu7JS3NxhpD7d" version="20.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-21T15:40:14.083Z" agent="5.0 (Macintosh)" etag="U-6fXEN1Sn5i26S474DN" version="20.4.2" type="github" pages="2">
   <diagram id="2sO_4onhugDU0Kl1AgzK" name="Page-1">
     <mxGraphModel dx="946" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
         <mxCell id="zOwiAkLwuJnWZPbeNpUU-15" value="Teacher" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zOwiAkLwuJnWZPbeNpUU-16" value="CourseCateory" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="zOwiAkLwuJnWZPbeNpUU-16" value="CourseCategory" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="630" y="70" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOwiAkLwuJnWZPbeNpUU-18" value="" style="group" vertex="1" connectable="0" parent="1">
